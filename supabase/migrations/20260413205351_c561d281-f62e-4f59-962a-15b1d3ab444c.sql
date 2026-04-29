@@ -1,0 +1,1 @@
+ALTER TABLE public.whatsapp_instance_secrets ADD COLUMN IF NOT EXISTS instance_token text;

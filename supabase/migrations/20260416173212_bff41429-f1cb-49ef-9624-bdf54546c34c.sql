@@ -1,0 +1,1 @@
+DELETE FROM public.appointments WHERE metadata->>'source' = 'google_calendar';

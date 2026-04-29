@@ -1,0 +1,1 @@
+ALTER TABLE public.system_settings ADD COLUMN agent_enabled boolean NOT NULL DEFAULT true;
