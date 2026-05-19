@@ -132,3 +132,5 @@ Mau exemplo (empilha perguntas):
 Resposta: "Qual seu nome? E qual seu segmento? Já usa alguma solução? Quanto fatura por mês?" ❌
 </examples>
 </system_instruction>`;
+
+export const DEFAULT_NINA_PROMPT = DEFAULT_SDR_PROMPT;

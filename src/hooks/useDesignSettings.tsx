@@ -18,10 +18,10 @@ interface DesignSettings {
 
 const DEFAULT_SETTINGS: DesignSettings = {
   logoUrl: null,
-  primaryColor: '220 9% 46%',
-  sidebarBgColor: '220 13% 18%',
-  sidebarPrimaryColor: '220 9% 46%',
-  accentColor: '220 14% 96%',
+  primaryColor: '24 95% 53%',
+  sidebarBgColor: '0 0% 7%',
+  sidebarPrimaryColor: '24 95% 53%',
+  accentColor: '24 30% 96%',
   companyDisplayName: null,
   companySubtitle: null,
   bodyFont: 'Inter',
